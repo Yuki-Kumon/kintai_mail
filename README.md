@@ -4,6 +4,7 @@
 毎分トリガーを設定する。
 
 https://docs.google.com/spreadsheets/d/1lerMQ5GKh_8bgXhM1YuO40fGCgsgN24uAEnbYyWu7Hw/edit?usp=sharing
+
 2. 文章例
 
 これもコピーして使う。
